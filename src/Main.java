@@ -19,7 +19,7 @@ public class Main {
     //For unit test
     static void main(String args) {
         System.out.println("Input: ");
-        System.out.println(args);;
+        System.out.println(args);
         String input = String.valueOf(args);
         DisplayAddress displayAddress = new DisplayAddress();
         displayAddress.display(input);
