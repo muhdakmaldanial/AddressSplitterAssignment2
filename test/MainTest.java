@@ -10,7 +10,7 @@ import org.junit.Test;
 
 /**
  *
- * @author ehkassim
+ * @author muhdakmaldanial
  */
 public class MainTest {
     
